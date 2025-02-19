@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Usage: .py
-#branch 2: 1 comm
+#branch 2: 1 comm 2comm
 
 from collections import nam1edtuple
 from dataclasses import make_dataclass

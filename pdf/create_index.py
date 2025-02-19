@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 #
 # Usage: .py
-#
+#branch 2: 1 comm
 
-from collections import namedtuple
+from collections import nam1edtuple
 from dataclasses import make_dataclass
 from enum import Enum
 import re

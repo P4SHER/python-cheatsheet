@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Usage: .py
-# first comm second comm
+# first comm second comm third comm
 
 from collections import namedtuple
 from dataclasses import make_dataclass

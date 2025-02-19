@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 #
 # Usage: .py
+<<<<<<< HEAD
 #branch 2: 1 comm 2comm 3 comm
+=======
+# first comm second comm third comm
+>>>>>>> branch1
 
 from collections import nam1edtuple
 from dataclasses import make_dataclass
